@@ -32,7 +32,7 @@ OpenStreetMap
 
 # ツ Maps:
 
-# by Alperen Çatak
+## by Alperen Çatak
 
 For the dam, we chose to provide electricity to the earthquake zone from the Atatürk dam, which is the 6th largest dam in the world. At the same time, we will meet the water needs from this dam.
 
@@ -42,7 +42,7 @@ The electricity line we obtained from the Atatürk dam and supplied to the city 
 
 ![adiyaman_elektrik](https://user-images.githubusercontent.com/118128475/228659193-f315df8d-f591-4012-aea7-69d7062eec86.png)
 
-# by Tutku Darıcı
+## by Tutku Darıcı
 
 In our research we realized that the depth of the waterline is important. The deeper the waterline, the less likely it is to be affected by surface movement during an earthquake. That's why Atatürk Dam was a solid choice.
 
@@ -50,7 +50,7 @@ The map we created for the transmission of the water supplied from the Atatürk 
 
 ![adiyaman_su](https://user-images.githubusercontent.com/129065147/228660108-22bfd8e2-0d38-4b7e-8401-dce06889e27a.png)
 
-# by Ezgi Göç
+## by Ezgi Göç
 
 First, we explored the city. We took into account factors such as the population of the city, the existing transport infrastructure, proximity to the airport and ring road. We considered alternative transportation options in case the infrastructure was damaged or destroyed. Providing the transportation line is a very important need like water and electricity. We tried to create the necessary road line for the transportation of people, materials or equipment to or from the earthquake zone.
 
