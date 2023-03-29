@@ -55,3 +55,7 @@ The map we created for the transmission of the water supplied from the Atatürk 
 First, we explored the city. We took into account factors such as the population of the city, the existing transport infrastructure, proximity to the airport and ring road. We considered alternative transportation options in case the infrastructure was damaged or destroyed. Providing the transportation line is a very important need like water and electricity. We tried to create the necessary road line for the transportation of people, materials or equipment to or from the earthquake zone.
 
 ![adiyaman_transportation](https://user-images.githubusercontent.com/122916513/228660526-5005e2ea-4bd7-4f88-9352-b9bf7857f885.png)
+
+## GENERAL
+
+![adiyaman](https://user-images.githubusercontent.com/118128475/228662357-ace174ee-c2e7-4044-ab8a-987ec0c9c789.png)
