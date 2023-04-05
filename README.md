@@ -40,7 +40,7 @@ Atatürk Dam Hydroelectric Power Plant uses the flow energy of water to generate
 
 The electricity line we obtained from the Atatürk dam and supplied to the city from the hydroelectric power plant is shown on the map below;
 
-![adiyaman_elektrik](https://user-images.githubusercontent.com/118128475/228659193-f315df8d-f591-4012-aea7-69d7062eec86.png)
+![Electric](https://user-images.githubusercontent.com/118128475/229952736-631e92ee-0afa-4bc3-9e5e-49b9c535fdc3.png)
 
 ## by Tutku Darıcı
 
@@ -48,14 +48,22 @@ In our research we realized that the depth of the waterline is important. The de
 
 The map we created for the transmission of the water supplied from the Atatürk Dam to the earthquake zone after filtering and necessary procedures at the Kahta Drinking Water Treatment Plant is as follows;
 
-![adiyaman_su](https://user-images.githubusercontent.com/129065147/228660108-22bfd8e2-0d38-4b7e-8401-dce06889e27a.png)
+![Water](https://user-images.githubusercontent.com/118128475/229952743-5c4e9587-7032-44f6-8733-019624233bac.png)
 
 ## by Ezgi Göç
 
 First, we explored the city. We took into account factors such as the population of the city, the existing transport infrastructure, proximity to the airport and ring road. We considered alternative transportation options in case the infrastructure was damaged or destroyed. Providing the transportation line is a very important need like water and electricity. We tried to create the necessary road line for the transportation of people, materials or equipment to or from the earthquake zone.
 
-![adiyaman_transportation](https://user-images.githubusercontent.com/122916513/228660526-5005e2ea-4bd7-4f88-9352-b9bf7857f885.png)
+![Transportation](https://user-images.githubusercontent.com/118128475/229952745-d691a329-5b4f-4d59-a0a5-4e2a6a2fd33f.png)
+
+# ツ SQL:
+
+## Areas:
+![Areas](https://user-images.githubusercontent.com/118128475/229952781-0849bc98-99c8-4427-a708-c7dbb1082f79.jpg)
+
+## Distances:
+![Distances](https://user-images.githubusercontent.com/118128475/229952787-428f518e-2ed0-4290-96d9-aea599ead53b.jpg)
 
 ## GENERAL
+![Adıyaman](https://user-images.githubusercontent.com/118128475/229952722-765a0ed3-a98e-479d-86fc-1a031d8029ad.png)
 
-![adiyaman](https://user-images.githubusercontent.com/118128475/228662357-ace174ee-c2e7-4044-ab8a-987ec0c9c789.png)
