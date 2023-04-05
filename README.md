@@ -58,11 +58,20 @@ First, we explored the city. We took into account factors such as the population
 
 # ツ SQL:
 
+## Query:
+![SQLQuery_XD](https://user-images.githubusercontent.com/118128475/230126633-c4c49cd4-cae0-4dc1-af14-c7db26bfac22.jpg)
+
 ## Areas:
 ![Areas](https://user-images.githubusercontent.com/118128475/229952781-0849bc98-99c8-4427-a708-c7dbb1082f79.jpg)
 
 ## Distances:
-![Distances](https://user-images.githubusercontent.com/118128475/229952787-428f518e-2ed0-4290-96d9-aea599ead53b.jpg)
+![distances](https://user-images.githubusercontent.com/118128475/230120103-dbaab6d2-6a24-4777-a671-f42d64a7fcda.jpg)
+
+## Lengths:
+![length](https://user-images.githubusercontent.com/118128475/230120112-95d9b1dc-0c6f-4c2c-a030-9b2428da7620.jpg)
+
+## Distance Map of Infrastructure Zone to Area
+![ShortestWay](https://user-images.githubusercontent.com/118128475/230120154-109f1ef9-0d4a-46e1-b8e3-d1811cbb6038.png)
 
 ## GENERAL
 ![Adıyaman](https://user-images.githubusercontent.com/118128475/229952722-765a0ed3-a98e-479d-86fc-1a031d8029ad.png)
