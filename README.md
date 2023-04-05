@@ -59,7 +59,7 @@ First, we explored the city. We took into account factors such as the population
 # ツ SQL:
 
 ## Query:
-![SQLQuery_XD](https://user-images.githubusercontent.com/118128475/230126633-c4c49cd4-cae0-4dc1-af14-c7db26bfac22.jpg)
+![SQLQuery2](https://user-images.githubusercontent.com/118128475/230129845-be068cef-7615-4cea-abe3-7374ed3eef68.jpg)
 
 ## Areas:
 ![Areas](https://user-images.githubusercontent.com/118128475/229952781-0849bc98-99c8-4427-a708-c7dbb1082f79.jpg)
