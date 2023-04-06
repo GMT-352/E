@@ -40,7 +40,7 @@ Atatürk Dam Hydroelectric Power Plant uses the flow energy of water to generate
 
 The electricity line we obtained from the Atatürk dam and supplied to the city from the hydroelectric power plant is shown on the map below;
 
-![Electric](https://user-images.githubusercontent.com/118128475/229952736-631e92ee-0afa-4bc3-9e5e-49b9c535fdc3.png)
+![Electricity](https://user-images.githubusercontent.com/118128475/230479283-e843695b-bcb4-4126-84d6-0cbea94ebdc2.png)
 
 ## by Tutku Darıcı
 
@@ -48,13 +48,13 @@ In our research we realized that the depth of the waterline is important. The de
 
 The map we created for the transmission of the water supplied from the Atatürk Dam to the earthquake zone after filtering and necessary procedures at the Kahta Drinking Water Treatment Plant is as follows;
 
-![Water](https://user-images.githubusercontent.com/118128475/229952743-5c4e9587-7032-44f6-8733-019624233bac.png)
+![Water](https://user-images.githubusercontent.com/118128475/230479316-a4f0c664-12f7-4d66-bf16-dd2eb74b5f4c.png)
 
 ## by Ezgi Göç
 
 First, we explored the city. We took into account factors such as the population of the city, the existing transport infrastructure, proximity to the airport and ring road. We considered alternative transportation options in case the infrastructure was damaged or destroyed. Providing the transportation line is a very important need like water and electricity. We tried to create the necessary road line for the transportation of people, materials or equipment to or from the earthquake zone.
 
-![Transportation](https://user-images.githubusercontent.com/118128475/229952745-d691a329-5b4f-4d59-a0a5-4e2a6a2fd33f.png)
+![Transportation](https://user-images.githubusercontent.com/118128475/230479329-6f75b511-1e05-4e08-9370-9dc407817764.png)
 
 # ツ SQL:
 
@@ -70,8 +70,8 @@ First, we explored the city. We took into account factors such as the population
 ## Lengths:
 ![length](https://user-images.githubusercontent.com/118128475/230120112-95d9b1dc-0c6f-4c2c-a030-9b2428da7620.jpg)
 
-## Distance Map of Infrastructure Zone to Area
-![ShortestWay](https://user-images.githubusercontent.com/118128475/230120154-109f1ef9-0d4a-46e1-b8e3-d1811cbb6038.png)
+## Infrastructure Areas' Shortest Distance Map
+![Shortest](https://user-images.githubusercontent.com/118128475/230479355-010e3ccc-015e-47ee-abc7-f2aabaa8b392.png)
 
 ## GENERAL
 ![Adıyaman](https://user-images.githubusercontent.com/118128475/229952722-765a0ed3-a98e-479d-86fc-1a031d8029ad.png)
